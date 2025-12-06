@@ -7,7 +7,10 @@ Forget manual INI editing: this tool lets you import your `config.ini`, modify e
 
 ---
  <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76dde0c6-4397-4afa-9ebb-43dacfce9e35" />
- Screenshot
+
+ <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3586f0c8-60fd-4cbc-8889-538890755ac6" />
+
+ Screenshots
 
 ## ✨ Features
 
